@@ -1,0 +1,5 @@
+{
+  "name": "Value Stock Screener",
+  "description": "A stock screener displaying 52-week low stocks with low PE, high dividend, and positive 3-year growth.",
+  "requestFramePermissions": []
+}
